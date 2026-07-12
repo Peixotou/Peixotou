@@ -1,0 +1,11 @@
+FILES FOR CLAUDE
+
+1. Upload the entire ZIP to Claude or open this folder with Claude Code.
+2. Download or screen-record the Instagram reel.
+3. Rename the video to `reference.mp4`.
+4. Place it inside the `reference` folder.
+5. Send Claude the contents of `PROMPT_CLAUDE.md`.
+6. Ask Claude to work from this folder and produce the final repository files.
+
+The video itself is essential. The Instagram link alone may not open for Claude.
+Without the video, Claude would still be guessing and could create another generic profile.
